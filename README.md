@@ -1,5 +1,6 @@
 - This is a script made by ava.service
 - you will need CDBL (https://github.com/eman225511/CustomDebloatedBloxLauncher/releases/tag/V1-2) - working on standalone atm
+
 -------------------------HOW TO USE---------------------------------
 note: the bulk import button does not work correctly yet
 1. You select your 6 images (ft, bk, lf, rt, up, dn. - can be named anything)
@@ -10,4 +11,5 @@ note: the bulk import button does not work correctly yet
 6. launch roblox!
 --------------------------------------------------------------------
 - you can also import preexisting tex files!
+
 
