@@ -11,7 +11,8 @@ note: the bulk import button does not work correctly yet
 5. click "Apply Custom Skybox" 
 6. launch roblox!
 --------------------------------------------------------------------
-- you can also import preexisting tex files!
+- you can also import pre-existing tex files!
+
 
 
 
